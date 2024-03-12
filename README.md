@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azobenio
-- 👀 I’m interested in ML, MLops, DL and all about Data and AI
-- 🌱 I’m currently learning AI
+- 👀 I’m interested in the field of Data Engineering, MLops, and all about Data and AI
+- 🌱 I’m currently learning Azure Data Engineering
 - 💞️ I’m looking to collaborate on projects around Data
 - 📫 How to reach me azobensadio@gmail.com
 
