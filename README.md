@@ -64,8 +64,10 @@ Data & AI Engineer based in France, specialized in designing and building scalab
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=azobenio&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azobenio&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=azobenio&theme=github_dark" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=azobenio&theme=github_dark" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=azobenio&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
